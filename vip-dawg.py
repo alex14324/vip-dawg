@@ -33,7 +33,7 @@ ascii = r'''
  ╚████╔╝ ██║██║           ██████╔╝██║  ██║╚███╔███╔╝╚██████╔╝
   ╚═══╝  ╚═╝╚═╝           ╚═════╝ ╚═╝  ╚═╝ ╚══╝╚══╝  ╚═════╝ 
          Private $200 DDOS Private Server 
-              Cracked By @xploitpriv  
+              Cracked By @alex14324  
  '''
 
 
